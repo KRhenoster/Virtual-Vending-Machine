@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Capstone.Classes.Candy" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Candy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.Chip" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Chip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.Drink" Collapsed="true">
+    <Position X="13" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.FileText" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAAAAAAAAAAAAAAAAAgAAAAAACAAAIAAA=</HashCode>
+      <FileName>Classes\FileText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.Gum" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Gum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.ItemMenu">
+    <Position X="4.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ItemMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.MachineInventory" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Classes\MachineInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.Menu" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.MoneyCount" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAAAABAAgAAAAAAAAAAAAAAAAAAAABAgAAAAA=</HashCode>
+      <FileName>Classes\MoneyCount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.VendingItem">
+    <Position X="13.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQABQAAAAgAAAAAAAAAAAAAEAAAAAAAIAAA=</HashCode>
+      <FileName>Classes\VendingItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Capstone.Classes.VendingMachine">
+    <Position X="4.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAQQABAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\VendingMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
